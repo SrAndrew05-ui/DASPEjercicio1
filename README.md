@@ -85,9 +85,12 @@ git remote add origin git@github.com:usuario/repo.git
 - He creado una tarea en el Programador de Tareas de Windows para que el backup se ejecute **todos los días a las 22:00**.
 - Acción: ejecutar `python "C:\ruta\a\backup.py"`
 
-1Captura
-2Captura
-3Captura
+![Log de backup]("images/NASREALIZADO1")
+![Fichero NAS]("images/NASREALIZADO2")
+![Tarea programada](images/TAREA3.png)
+![Tarea programada](images/TAREA2.png)
+![Tarea programada](images/TAREA1.png)
+![Push automático a GitHub](images/BackupRealizada.png)
 
 🔹 Notas finales
 
