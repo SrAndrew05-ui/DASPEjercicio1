@@ -85,13 +85,6 @@ git remote add origin git@github.com:usuario/repo.git
 - He creado una tarea en el Programador de Tareas de Windows para que el backup se ejecute **todos los días a las 22:00**.
 - Acción: ejecutar `python "C:\ruta\a\backup.py"`
 
-```
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-// Aquí pon una captura de un push automático a GitHub
-```
-
 🔹 Notas finales
 
 - El script solo sube cambios detectados, si ya subiste todo antes, dirá que no hay cambios.
