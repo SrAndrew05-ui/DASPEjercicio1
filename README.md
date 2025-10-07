@@ -86,12 +86,15 @@ git remote add origin git@github.com:usuario/repo.git
 - Acción: ejecutar `python "C:\ruta\a\backup.py"`
 
 - CAPTURAS DE PANTALLA DEL NAS REALIZADO CORRECTAMENTE
-![Log del NAS]("images/NASREALIZADO1")
-![Fichero NAS]("images/NASREALIZADO2")
+![Log del NAS](images/NASREALIZADO1)
 
--- CAPTURAS DE PANTALLA DE LA TAREA DE EJECUCION AUTOMATICA TODOS LOS DIAS A LAS 22:00
+![Fichero NAS](images/NASREALIZADO2)
+
+- CAPTURAS DE PANTALLA DE LA TAREA DE EJECUCION AUTOMATICA TODOS LOS DIAS A LAS 22:00
 ![Tarea programada](images/TAREA3.png)
+
 ![Tarea programada](images/TAREA2.png)
+
 ![Tarea programada](images/TAREA1.png)
 
 - CAPTURA DE PANTALLA DE QUE FUNCIONA EL SISTEMA DE PUSH AUTOMATICO
