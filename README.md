@@ -86,9 +86,9 @@ git remote add origin git@github.com:usuario/repo.git
 - Acción: ejecutar `python "C:\ruta\a\backup.py"`
 
 - CAPTURAS DE PANTALLA DEL NAS REALIZADO CORRECTAMENTE
-![Log del NAS](images/NASREALIZADO1)
+![Log del NAS](images/NASREALIZADO1.png)
 
-![Fichero NAS](images/NASREALIZADO2)
+![Fichero NAS](images/NASREALIZADO2.png)
 
 - CAPTURAS DE PANTALLA DE LA TAREA DE EJECUCION AUTOMATICA TODOS LOS DIAS A LAS 22:00
 ![Tarea programada](images/TAREA3.png)
