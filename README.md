@@ -88,7 +88,6 @@ git remote add origin git@github.com:usuario/repo.git
 1Captura
 2Captura
 3Captura
-4Captura
 
 🔹 Notas finales
 
